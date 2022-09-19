@@ -1,3 +1,9 @@
+This is a `Code Along` project.
+
+The link for the project video: https://www.youtube.com/watch?v=4mOkFXyxfsU&t=11617s&ab_channel=JavaScriptMastery
+
+The app is live on: https://ecommerce-react-sanity-stripe-code-along.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
